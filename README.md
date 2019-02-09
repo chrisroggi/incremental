@@ -24,4 +24,11 @@ Start the rails server
 rails s
 ```
 
+### Tests
+
+Run the test command
+```
+rails test
+```
+
 Endpoints will now be accessible via `http://localhost:3000`
